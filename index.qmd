@@ -1,0 +1,84 @@
+---
+title: "Desarrollos basados en hardware y software libre para la sostenibilidad"
+lang: es
+
+author:
+  name: Guillermo Barrios del Valle
+  email: gbv@ier.unam.mx
+  afiliation: Instituto de Energías Renovables, UNAM
+format: 
+
+  revealjs:
+    # css: styles.css
+    # parallax-background-image: images/fondo.png 
+    # parallax-background-size: "210px 90px"
+    # parallax-background-horizontal: 200
+    # parallax-background-vertical: 50
+    slide-number: c/t  
+    touch: true
+    footer: Ciencia Abierta, una ventana en la ingeniería, FIE, Universidad de Colima
+---
+ 
+## Tomen la presentación 
+
+
+## Sostenibilidad 
+
+Capacidad de un sistemas socioecológico de **perdurar y prosperar en el tiempo** asegurando simultáneamente: 
+
+-  **Integridad ambiental**
+- **Justicia y cohesión social con igualdad sustantiva**
+- **Viabilidad económica de largo plazo**
+- **Gobernanza institucional** 
+
+## ¿Qué es la ciencia libre?
+
+::: {.callout-caution appearance="simple"}
+
+No es solo un PDF de acceso abierto
+:::
+
+
+![](images/unesco.png)
+
+
+## ¿Qué es la ciencia libre?
+
+Según la [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa), la **ciencia libre** es un enfoque inclusivo que hace el conocimiento científico abierto, accesible y reutilizable para todos, incrementa la colaboración y abre la creación, evaluación y comunicación a actores más allá de la comunidad científica. 
+
+
+::: {.callout-tip appearance="simple"}
+
+Acceso abierto a publicaciones, datos, código, equipo...
+
+:::
+
+
+## Ventajas de la ciencia libre
+
+* **Acceso y reutilización del conocimiento**
+* **Más colaboración e intercambio** 
+* **Apertura a actores sociales** 
+* **Beneficios económicos y alto retorno**
+* **Mayor eficacia y productividad** 
+* **Más investigación con los mismos datos** 
+* **Mayor impacto social y circulación** 
+* **Reducción de brechas** 
+* **Transparencia, control crítico y reproducibilidad**  
+
+
+
+
+## ¿Qué es la ciencia libre?
+
+Es una postura ética, filosófica y política
+
+
+::: {.callout-tip appearance="simple"}
+
+## [Carol Hanisch](https://es.wikipedia.org/wiki/Lo_personal_es_pol%C3%ADtico)
+Lo personal es político
+:::
+
+## ¿Cómo hacer ciencie libre en la academia?
+
