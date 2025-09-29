@@ -20,9 +20,10 @@ format:
     touch: true
     footer: Ciencia Abierta, una ventana en la ingeniería, FIE, Universidad de Colima
 ---
- 
-## Tomen la presentación 
+  
+## Tomen la presentación     
 
+![](images/qrcode_altamarmx.github.io.png){width="100%" fig-align="center"}
 
 ## Sostenibilidad 
 
