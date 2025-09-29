@@ -25,7 +25,8 @@
   background: linear-gradient(135deg, #ffffff 0%, #eef3ff 100%);
   border-radius: 28px;
   box-shadow: 0 22px 60px -30px rgba(15, 40, 75, 0.35);
-  padding: 60px 70px;
+  padding: clamp(28px, 6vh, 60px) clamp(24px, 6vw, 70px);
+  box-sizing: border-box;
 }
 
 .reveal h1,
@@ -204,7 +205,7 @@
   align-items: flex-start;
   text-align: left;
   color: #ffffff;
-  padding: 90px 90px;
+  padding: clamp(40px, 12vh, 90px) clamp(36px, 8vw, 90px);
 }
 
 .reveal section.title-slide .quarto-title-block {
@@ -225,10 +226,6 @@
 }
 
 @media (max-width: 900px) {
-  .reveal section {
-    padding: 40px;
-  }
-
   .reveal h1 {
     font-size: 44px;
   }
@@ -243,5 +240,19 @@
 
   .reveal .columns {
     flex-direction: column;
+  }
+}
+
+@media (max-height: 680px) and (orientation: landscape) {
+  .reveal {
+    font-size: 22px;
+  }
+
+  .reveal section {
+    padding: clamp(20px, 5vh, 36px) clamp(18px, 8vw, 40px);
+  }
+
+  .reveal section.title-slide {
+    padding: clamp(24px, 10vh, 48px) clamp(20px, 10vw, 54px);
   }
 }
