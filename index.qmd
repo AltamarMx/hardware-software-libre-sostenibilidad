@@ -135,7 +135,7 @@ Consulta los principios [aquí](https://www.nature.com/articles/sdata201618)
 
 ## Primer desarrollo basado en hardware libre
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="60%"}
 ![](images/didactic-device.png){width=80%}
@@ -169,7 +169,7 @@ Consulta los principios [aquí](https://www.nature.com/articles/sdata201618)
 
 ## Monitor CO2 en pandemia
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="60%"}
 ![](images/monitor-co2.png){width=70%}
@@ -192,7 +192,7 @@ Consulta los principios [aquí](https://www.nature.com/articles/sdata201618)
 
 ## Edificio bioclimático docencia
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="60%"}
 ![](images/edificio.png){width=100%}
@@ -229,7 +229,7 @@ Bokeh y Python
 
 ## [Reloj inteligente para confort térmico](https://altamarmx.github.io/reloj_inteligente/)
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="60%"}
 
@@ -262,7 +262,7 @@ Bokeh y Python
 ## iertools para energía en edificaciones
 
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="40%"}
 
@@ -283,7 +283,7 @@ Bokeh y Python
 ## [EnerHabitat](https://pypi.org/project/enerhabitat/)
 
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="70%"}
 
@@ -308,7 +308,7 @@ Bokeh y Python
 ## Herramientas usadas
 
 
-:::: {.columns}
+:::: {.columns .mobile-columns}
 
 ::: {.column width="50%"}
 - ESP8266, ESP32
