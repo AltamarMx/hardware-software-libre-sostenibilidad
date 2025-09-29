@@ -18,7 +18,8 @@
 }
 
 .reveal .slides {
-  padding: 40px 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .reveal section {
@@ -27,6 +28,7 @@
   box-shadow: 0 22px 60px -30px rgba(15, 40, 75, 0.35);
   padding: clamp(28px, 6vh, 60px) clamp(24px, 6vw, 70px);
   box-sizing: border-box;
+  margin: clamp(12px, 3vh, 24px) auto clamp(60px, 12vh, 80px);
 }
 
 .reveal h1,
