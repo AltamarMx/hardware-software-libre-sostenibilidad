@@ -11,21 +11,28 @@
     "href": "index.html#sostenibilidad",
     "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
     "section": "Sostenibilidad",
-    "text": "Sostenibilidad\nCapacidad de un sistemas socioecológico de perdurar y prosperar en el tiempo asegurando simultáneamente:\n\nIntegridad ambiental\nJusticia y cohesión social con igualdad sustantiva\nViabilidad económica de largo plazo\nGobernanza institucional"
+    "text": "Sostenibilidad\n  \nCapacidad de un sistemas socioecológico de perdurar y prosperar en el tiempo asegurando simultáneamente:\n\nIntegridad ambiental\nJusticia y cohesión social con igualdad sustantiva\nViabilidad económica de largo plazo\nGobernanza institucional"
   },
   {
     "objectID": "index.html#qué-es-la-ciencia-libre",
     "href": "index.html#qué-es-la-ciencia-libre",
     "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
     "section": "¿Qué es la ciencia libre?",
-    "text": "¿Qué es la ciencia libre?\n\n\n\n\n\n\nNo es solo un PDF de acceso abierto"
+    "text": "¿Qué es la ciencia libre?\n\n\n\n\n\n\n\nNo es solo un PDF de acceso abierto"
   },
   {
     "objectID": "index.html#qué-es-la-ciencia-libre-1",
     "href": "index.html#qué-es-la-ciencia-libre-1",
     "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
     "section": "¿Qué es la ciencia libre?",
-    "text": "¿Qué es la ciencia libre?\nSegún la UNESCO, la ciencia libre es un enfoque inclusivo que hace el conocimiento científico abierto, accesible y reutilizable para todos, incrementa la colaboración y abre la creación, evaluación y comunicación a actores más allá de la comunidad científica.\n\n\n\n\n\n\nAcceso abierto a publicaciones, datos, código, equipo…"
+    "text": "¿Qué es la ciencia libre?\n\n\n\n\n\n\nNo es un programa gratuito"
+  },
+  {
+    "objectID": "index.html#qué-es-la-ciencia-libre-2",
+    "href": "index.html#qué-es-la-ciencia-libre-2",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "¿Qué es la ciencia libre?",
+    "text": "¿Qué es la ciencia libre?\n \nSegún la UNESCO, la ciencia libre es un enfoque inclusivo que hace el conocimiento científico abierto, accesible y reutilizable para todos, incrementa la colaboración y abre la creación, evaluación y comunicación a actores más allá de la comunidad científica.\n\n\n\n\n\n\nAcceso abierto a publicaciones, datos, código, equipo…"
   },
   {
     "objectID": "index.html#ventajas-de-la-ciencia-libre",
@@ -35,17 +42,115 @@
     "text": "Ventajas de la ciencia libre\n\nAcceso y reutilización del conocimiento\nMás colaboración e intercambio\nApertura a actores sociales\nBeneficios económicos y alto retorno\nMayor eficacia y productividad\nMás investigación con los mismos datos\nMayor impacto social y circulación\nReducción de brechas\nTransparencia, control crítico y reproducibilidad"
   },
   {
-    "objectID": "index.html#qué-es-la-ciencia-libre-2",
-    "href": "index.html#qué-es-la-ciencia-libre-2",
+    "objectID": "index.html#qué-es-la-ciencia-libre-3",
+    "href": "index.html#qué-es-la-ciencia-libre-3",
     "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
     "section": "¿Qué es la ciencia libre?",
-    "text": "¿Qué es la ciencia libre?\nEs una postura ética, filosófica y política\n\n\n\n\n\n\nCarol Hanisch\n\n\nLo personal es político"
+    "text": "¿Qué es la ciencia libre?\n \nEs una postura ética, filosófica y personal.\n \n\n\n\n\n\n\nCarol Hanisch\n\n\nLo personal es político"
   },
   {
     "objectID": "index.html#cómo-hacer-ciencie-libre-en-la-academia",
     "href": "index.html#cómo-hacer-ciencie-libre-en-la-academia",
     "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
     "section": "¿Cómo hacer ciencie libre en la academia?",
-    "text": "¿Cómo hacer ciencie libre en la academia?"
+    "text": "¿Cómo hacer ciencie libre en la academia?\n \n\nUsar sofware/hardware libre\nDocumentar\nOtorgar licencias abiertas\nDatos, principios FAIR"
+  },
+  {
+    "objectID": "index.html#datos-f-a-i-r",
+    "href": "index.html#datos-f-a-i-r",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Datos: F A I R",
+    "text": "Datos: F A I R\n  \n\nFindable\nAccesible\nInteroperable\nReproducible\n\nConsulta los principios aquí"
+  },
+  {
+    "objectID": "index.html#primer-desarrollo-basado-en-hardware-libre",
+    "href": "index.html#primer-desarrollo-basado-en-hardware-libre",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Primer desarrollo basado en hardware libre",
+    "text": "Primer desarrollo basado en hardware libre\n\n\n\n\n\nRaspberry pi\nArduino Uno\nShield de termopares\nControl de celdas peltier\nPantalla touch\n\n\nArtículo y patente"
+  },
+  {
+    "objectID": "index.html#hardware-software-libre-ier",
+    "href": "index.html#hardware-software-libre-ier",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Hardware & Software libre @ IER",
+    "text": "Hardware & Software libre @ IER\n\nMonitor CO2 en pandemia\nEcosistema IER-Sustentable\nTableros de datos en tiempo real\nReloj inteligente para confort térmico\nDispositivo campañas de confort térmico\nMapas de luminancia con sofware libre\niertools\nEnerHabitat\nClimaLab"
+  },
+  {
+    "objectID": "index.html#monitor-co2-en-pandemia",
+    "href": "index.html#monitor-co2-en-pandemia",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Monitor CO2 en pandemia",
+    "text": "Monitor CO2 en pandemia\n\n\n\n\n\nESP8266\nS8LP\nAlarma visual y sonora\nIoT\nDetección de fallos\n3 sensores diferentes\nDatos de calibración compartida\n\n\nArtículo y repositorio"
+  },
+  {
+    "objectID": "index.html#edificio-bioclimático-docencia",
+    "href": "index.html#edificio-bioclimático-docencia",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Edificio bioclimático docencia",
+    "text": "Edificio bioclimático docencia\n\n\n\n\n\nOrientación\nProtecciones solares\nColores y materiales\nVentilación cruzada y nocturna\nIluminación natural\nEnfriamiento evaporativo\nEnfriamiento radiativo"
+  },
+  {
+    "objectID": "index.html#monitoreo-en-tiempo-real",
+    "href": "index.html#monitoreo-en-tiempo-real",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Monitoreo en tiempo real",
+    "text": "Monitoreo en tiempo real\n\nDTHIS: Temperatura, humedad, CO2, sonido, iluminacion\nDH2O: Consumo de agua\nDVentana: Apertura de ventanas\nDFP: Consumo eléctrico\nDTHIS-C: Dispositivo confort térmico para campañas\n\nTodo conectado a IoT con ThingsBoard"
+  },
+  {
+    "objectID": "index.html#tableros-de-datos-para-literacidad-bioclimática",
+    "href": "index.html#tableros-de-datos-para-literacidad-bioclimática",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Tableros de datos para literacidad bioclimática",
+    "text": "Tableros de datos para literacidad bioclimática\n\nBokeh y Python"
+  },
+  {
+    "objectID": "index.html#reloj-inteligente-para-confort-térmico",
+    "href": "index.html#reloj-inteligente-para-confort-térmico",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Reloj inteligente para confort térmico",
+    "text": "Reloj inteligente para confort térmico\n\n\n\n\n\nESP32\nArduino\nPantalla táctil\nTemperatura piel\nFrecuencia cardiáca\nEncuesta confort simplificada\nIoT\nHardwareX"
+  },
+  {
+    "objectID": "index.html#reloj-inteligente-para-confort-térmico-1",
+    "href": "index.html#reloj-inteligente-para-confort-térmico-1",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Reloj inteligente para confort térmico",
+    "text": "Reloj inteligente para confort térmico"
+  },
+  {
+    "objectID": "index.html#iertools-para-energía-en-edificaciones",
+    "href": "index.html#iertools-para-energía-en-edificaciones",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "iertools para energía en edificaciones",
+    "text": "iertools para energía en edificaciones"
+  },
+  {
+    "objectID": "index.html#iertools-para-energía-en-edificaciones-1",
+    "href": "index.html#iertools-para-energía-en-edificaciones-1",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "iertools para energía en edificaciones",
+    "text": "iertools para energía en edificaciones\n\n\n\n\n\nLee sql de EnergyPlus\nDescarga datos de ThingsBoard\nLee archivos EPW\nGrafica trayectorisa solar aparente\nCalcula UDI de Radiance"
+  },
+  {
+    "objectID": "index.html#enerhabitat",
+    "href": "index.html#enerhabitat",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "EnerHabitat",
+    "text": "EnerHabitat\n\n\n\n\n\n\\(\\frac{dT}{dt}\\)\nTDMA\nClimas de Mx\nCon y sin aa\nConfigurable"
+  },
+  {
+    "objectID": "index.html#climalab",
+    "href": "index.html#climalab",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "ClimaLab",
+    "text": "ClimaLab"
+  },
+  {
+    "objectID": "index.html#herramientas-usadas",
+    "href": "index.html#herramientas-usadas",
+    "title": "Desarrollos basados en hardware y software libre para la sostenibilidad",
+    "section": "Herramientas usadas",
+    "text": "Herramientas usadas\n\n\n\nESP8266, ESP32\nRaspberry Pi\nArduino Uno WiFi\nArduino IDE\nMicroPython\nCircuitPython\n\n\n\nPython\nShiny\nPandas\nNumba\nGit & GitHub\nQuarto"
   }
 ]

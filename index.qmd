@@ -9,7 +9,9 @@ author:
 format: 
 
   revealjs:
-    # css: styles.css
+    css: styles.css
+    transition: slide
+    background-transition: fade
     # parallax-background-image: images/fondo.png 
     # parallax-background-size: "210px 90px"
     # parallax-background-horizontal: 200
@@ -24,6 +26,10 @@ format:
 
 ## Sostenibilidad 
 
+<br>
+<br>
+<br>
+
 Capacidad de un sistemas socioecológico de **perdurar y prosperar en el tiempo** asegurando simultáneamente: 
 
 -  **Integridad ambiental**
@@ -32,6 +38,8 @@ Capacidad de un sistemas socioecológico de **perdurar y prosperar en el tiempo*
 - **Gobernanza institucional** 
 
 ## ¿Qué es la ciencia libre?
+
+<br>
 
 ::: {.callout-caution appearance="simple"}
 
@@ -43,6 +51,20 @@ No es solo un PDF de acceso abierto
 
 
 ## ¿Qué es la ciencia libre?
+
+::: {.callout-caution appearance="simple"}
+
+No es un programa gratuito
+:::
+
+
+![](images/winzip.png)
+
+
+## ¿Qué es la ciencia libre?
+
+<br>
+<br>
 
 Según la [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa), la **ciencia libre** es un enfoque inclusivo que hace el conocimiento científico abierto, accesible y reutilizable para todos, incrementa la colaboración y abre la creación, evaluación y comunicación a actores más allá de la comunidad científica. 
 
@@ -71,8 +93,14 @@ Acceso abierto a publicaciones, datos, código, equipo...
 
 ## ¿Qué es la ciencia libre?
 
-Es una postura ética, filosófica y política
 
+<br>
+<br>
+
+Es una postura ética, filosófica y personal.
+
+<br>
+<br>
 
 ::: {.callout-tip appearance="simple"}
 
@@ -80,5 +108,224 @@ Es una postura ética, filosófica y política
 Lo personal es político
 :::
 
+
 ## ¿Cómo hacer ciencie libre en la academia?
 
+<br>
+<br>
+
+- Usar sofware/hardware libre
+- Documentar
+- Otorgar licencias abiertas
+- Datos, principios FAIR
+ 
+##  Datos: F A I R
+
+<br>
+<br>
+<br>
+
+- **F**indable
+- **A**ccesible
+- **I**nteroperable
+- **R**eproducible
+
+Consulta los principios [aquí](https://www.nature.com/articles/sdata201618)
+
+## Primer desarrollo basado en hardware libre
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/didactic-device.png){width=80%}
+:::
+
+::: {.column width="40%"}
+- Raspberry pi
+- Arduino Uno
+- Shield de termopares
+- Control de celdas peltier
+- Pantalla touch
+:::
+
+::::
+
+[Artículo](https://journals.sagepub.com/doi/pdf/10.1177/17442591221093057?casa_token=DKnYJZZ2vCQAAAAA:V7uRR-5-sY4oj7yg5I3oj6rUH-j9YC8RTpA9hzk1my46C4F43z_rCnk-lsidYGRTP5cb2GGhbocjPA) y [patente](https://pi.unam.mx/home/detalle?tipo=patentes&id=3329)
+
+
+
+## Hardware & Software libre @ IER
+
+- Monitor CO2 en pandemia
+- Ecosistema IER-Sustentable
+- Tableros de datos en tiempo real
+- Reloj inteligente para confort térmico
+- [Dispositivo campañas de confort térmico](https://altamarmx.github.io/DTHIS-C/) 
+- [Mapas de luminancia con sofware libre](https://tesiunamdocumentos.dgb.unam.mx/ptd2021/octubre/0816491/Index.html)
+- [iertools](https://github.com/altamarMx/iertools) 
+- [EnerHabitat](https://enerhabitat.unam.mx/)
+- ClimaLab
+
+## Monitor CO2 en pandemia
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/monitor-co2.png){width=70%}
+:::
+
+::: {.column width="40%"}
+- ESP8266
+- S8LP
+- Alarma visual y sonora
+- IoT
+- Detección de fallos
+- 3 sensores diferentes
+- Datos de calibración compartida
+:::
+
+::::
+
+[Artículo](https://pistaseducativas.celaya.tecnm.mx/index.php/pistas/article/view/3765/2698) y [repositorio](https://github.com/lata-mas/Monitor_co2_pistas_educativas)
+
+
+## Edificio bioclimático docencia
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/edificio.png){width=100%}
+:::
+
+::: {.column width="40%"}
+- Orientación
+- Protecciones solares
+- Colores y materiales
+- Ventilación cruzada y nocturna
+- Iluminación natural 
+- Enfriamiento evaporativo
+- Enfriamiento radiativo
+:::
+
+::::
+
+## Monitoreo en tiempo real
+
+- [DTHIS](https://github.com/lata-mas/DTHIS_Jorge): Temperatura, humedad, CO2, sonido, iluminacion
+- [DH2O](https://github.com/lata-mas/DH2O): Consumo de agua
+- [DVentana](https://github.com/lata-mas/Sistema_medicion_apertura_ventanas): Apertura de ventanas
+- [DFP](https://github.com/lata-mas/3pzem-daniel): Consumo eléctrico
+- [DTHIS-C](https://github.com/lata-mas/DTHIS-C_JoseRra): Dispositivo confort térmico para campañas
+
+Todo conectado a IoT con [ThingsBoard](https://thingsboard.io/)
+
+
+## Tableros de datos para literacidad bioclimática
+
+![](images/panel.png)
+
+Bokeh y Python
+
+## [Reloj inteligente para confort térmico](https://altamarmx.github.io/reloj_inteligente/)
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](images/reloj-real.png)
+:::
+
+
+::: {.column width="40%"}
+
+- ESP32
+- Arduino
+- Pantalla táctil
+- Temperatura piel
+- Frecuencia cardiáca
+- Encuesta confort simplificada
+- IoT
+- [HardwareX](https://www.sciencedirect.com/science/article/pii/S2468067225000112)
+:::
+
+:::: 
+
+## [Reloj inteligente para confort térmico](https://altamarmx.github.io/reloj_inteligente/)
+
+![](images/reloj.png)
+
+## iertools para energía en edificaciones
+
+![](images/iertools.png)
+
+## iertools para energía en edificaciones
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](images/list-iertools.png){width="70%"}
+:::
+
+
+::: {.column width="60%"}
+- Lee sql de EnergyPlus
+- Descarga datos de ThingsBoard
+- Lee archivos EPW
+- Grafica trayectorisa solar aparente
+- Calcula UDI de Radiance
+:::
+
+::::
+
+## [EnerHabitat](https://pypi.org/project/enerhabitat/)
+
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+![](images/enerhabitat.png)
+:::
+
+::: {.column width="30%"}
+- $\frac{dT}{dt}$
+- TDMA 
+- Climas de Mx
+- Con y sin aa
+- Configurable
+:::
+
+::::
+
+
+## ClimaLab
+
+![](images/climalab.png)
+
+## Herramientas usadas
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- ESP8266, ESP32
+- Raspberry Pi
+- Arduino Uno WiFi
+- Arduino IDE
+- MicroPython
+- CircuitPython
+ 
+:::
+
+::: {.column width="50%"}
+- Python
+- Shiny
+- Pandas
+- Numba
+- Git & GitHub
+- Quarto
+:::
+
+::::
